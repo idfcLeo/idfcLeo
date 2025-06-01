@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm @idfcLeo
+# 👋 Hey there! I'm SHERE
 
 Welcome to my corner of GitHub, where code meets creativity. 🚀
 
