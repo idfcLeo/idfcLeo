@@ -12,9 +12,9 @@ Welcome to my corner of GitHub, where code meets creativity. 🚀
 ---
 
 ### 🌱 Currently Learning
-- Full-stack Web Development (MERN / Next.js) ⚛️  
+- Full-stack Web Development ⚛️  
 - Python & AI/ML frameworks 🐍🧬  
-- DevOps basics with Docker & CI/CD 🐳⚙️  
+- Andriod Studio & Flutter 🐳⚙️  
 
 ---
 
