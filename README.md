@@ -26,7 +26,7 @@ Welcome to my corner of GitHub, where code meets creativity. 🚀
 ---
 
 ### 📫 Reach Me
-- 📧 Email: habibshere@example.com  
+- 📧 Email: habibshere@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-shere-habib)  
 
 ---
