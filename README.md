@@ -27,7 +27,7 @@ Welcome to my corner of GitHub, where code meets creativity. 🚀
 
 ### 📫 Reach Me
 - 📧 Email: habibshere@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-shere-habib)
+- 💼 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/md-shere-habib)
 - 🐱‍👤 portfolio : (https://cvshere.vercel.app/) 
 
 ---
