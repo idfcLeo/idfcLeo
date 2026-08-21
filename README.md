@@ -60,13 +60,6 @@ Software Developer with 1+ year of experience across full-stack web and mobile d
 ### 📜 Certifications
 `OCI Generative AI Professional` · `OCI Data Science Professional` · `OCI AI Foundations Associate` · `AWS Academy: Cloud Foundations & Architecting` · `Oracle Fusion AI Agent Studio Associate` · `Google: Prepare Data for ML APIs`
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=idfcLeo&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idfcLeo&layout=compact&theme=radical" />
-</p>
-
 ### 📫 Reach Me
 - 📧 **Email:** habibshere@gmail.com
 - 💼 **LinkedIn:** [md-shere-habib](https://www.linkedin.com/in/md-shere-habib)
