@@ -63,7 +63,7 @@ Software Developer with 1+ year of experience across full-stack web and mobile d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=idfcLeoE&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=idfcLeo&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idfcLeo&layout=compact&theme=radical" />
 </p>
 
