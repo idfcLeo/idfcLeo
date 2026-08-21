@@ -52,14 +52,6 @@ Software Developer with 1+ year of experience across full-stack web and mobile d
 - Applied AI-assisted threshold optimization and spatial filtering for noise reduction
 - Extracted and mapped 12.02 km² of surface water from raster to vector data
 
-### 🌟 Featured Projects
-
-**[LegalDoc](https://github.com/)** — JavaScript, Tailwind CSS, Firebase, Gemini AI
-AI-powered legal document simplifier with automated risk scoring, recursive summarization, interactive Q&A, and multilingual support — built to close the gap between everyday users and legal complexity.
-
-**VisionTrainer** — Python, MediaPipe, OpenCV, Streamlit, SQLite
-Real-time computer vision fitness platform tracking 10+ exercises with a 33-point pose skeleton, FSM-based rep counting, and an AI coach with live search integration — under 50ms frame latency.
-
 ### 🏆 Accomplishments
 - 🥇 Brand Forge 2025 Logo Design Competition — Winner
 - 🎖️ Smart India Hackathon 2024 — Grand Finalist
@@ -71,8 +63,8 @@ Real-time computer vision fitness platform tracking 10+ exercises with a 33-poin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=idfcLeoE&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idfcLeo&layout=compact&theme=radical" />
 </p>
 
 ### 📫 Reach Me
